@@ -1,4 +1,4 @@
-## StressVision
+## StressVision: Non-Invasive Stress Detection from Thermal Videos
 StressVision is a novel and fast system for detecting stress from thermal videos.
 StressVision is the successor of [StressNet](https://github.com/UCSB-VRL/StressNet-Detecting-stress-from-thermal-videos),
 another system designed for stress detection by the UCSB Vision Research Lab.
