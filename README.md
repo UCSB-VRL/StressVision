@@ -5,7 +5,7 @@ another system designed for stress detection by the UCSB Vision Research Lab.
 
 This repo maintains an implementation of all components of StressVision, using Python and the Pytorch deep learning framework.
 
-<img src="figures/output.gif" width="700">
+<img src="figures/output.gif" width="250">
 
 This repository includes:
 * Source code for Stress Detector
